@@ -1,4 +1,4 @@
-# Hello, I'm Ahmad
+### Hello, I'm Ahmad
 <a href="https://www.linkedin.com/in/ahmad-shakla-341027209"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 
@@ -7,9 +7,8 @@ Cybersecurity enthusiast seeking new opportunities to protect and secure digital
 ## Objective
 
 
-My journey in cybersecurity lead me into being eager to transition into this field, specifically aiming to become a penetration tester.
-
-## Skills
+My journey in cybersecurity has fueled my passion and drive to transition into a career as a penetration tester. With a deep interest in the field, I am dedicated to honing my skills and knowledge to excel in this specialized area of cybersecurity
+#### Skills
 
 
 | Skill                                         | Associated Project         |
@@ -25,7 +24,7 @@ My journey in cybersecurity lead me into being eager to transition into this fie
 | SIEM and Security Analytics via ELK Stack | <a href="https://academy.hackthebox.com/achievement/badge/82594c6c-fde1-11ee-b18d-bea50ffe6cb4">HackTheBox Academy Badge</a>|
 | Cisco Layer 2 Secrutiy | <a href="https://github.com/ahmad-shakla/Network-Security">Layer 2 Network Securty Lab</a> 
 
-## Tools
+#### Tools
 [Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
 
 ### Network
@@ -43,12 +42,11 @@ My journey in cybersecurity lead me into being eager to transition into this fie
 
 ### SIEM
 <div>
-    
     <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
     <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
 </div>
 
-## Certifications
+### Certifications
 [Provide certifications that you have obtained. Use ChatGPT to help create the link - Remove this afterwards]]
 <div>
 <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
@@ -58,6 +56,6 @@ My journey in cybersecurity lead me into being eager to transition into this fie
 <img src="https://img.shields.io/badge/-CCD-000080?&style=for-the-badge&logoColor=white" />
 </div>
 
-## Projects
+#### Projects
 - Detection Lab
 - SOC Automation Project
