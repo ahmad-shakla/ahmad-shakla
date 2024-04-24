@@ -1,4 +1,4 @@
-### Hello, I'm Ahmad
+# Hello, I'm Ahmad
 <a href="https://www.linkedin.com/in/ahmad-shakla-341027209"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 
@@ -8,7 +8,7 @@ Cybersecurity enthusiast seeking new opportunities to protect and secure digital
 
 
 My journey in cybersecurity has fueled my passion and drive to transition into a career as a penetration tester. With a deep interest in the field, I am dedicated to honing my skills and knowledge to excel in this specialized area of cybersecurity
-#### Skills
+## Skills
 
 
 | Skill                                         | Associated Project         |
@@ -24,29 +24,29 @@ My journey in cybersecurity has fueled my passion and drive to transition into a
 | SIEM and Security Analytics via ELK Stack | <a href="https://academy.hackthebox.com/achievement/badge/82594c6c-fde1-11ee-b18d-bea50ffe6cb4">HackTheBox Academy Badge</a>|
 | Cisco Layer 2 Secrutiy | <a href="https://github.com/ahmad-shakla/Network-Security">Layer 2 Network Securty Lab</a> 
 
-#### Tools
+# Tools
 [Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
 
-### Network
+## Network
 <div>
     <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
     <img src="https://img.shields.io/badge/-TCPDump-EF3B2D?style=for-the-badge&logoColor=white" />
     
 </div>
 
-### Endpoint
+## Endpoint
 <div>
     <img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
     <img src="https://img.shields.io/badge/-Velociraptor-4B275F?&style=for-the-badge&logo=Velociraptor&logoColor=white" />
 </div>
 
-### SIEM
+## SIEM
 <div>
     <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
     <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
 </div>
 
-### Certifications
+# Certifications
 [Provide certifications that you have obtained. Use ChatGPT to help create the link - Remove this afterwards]]
 <div>
 <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
@@ -56,6 +56,6 @@ My journey in cybersecurity has fueled my passion and drive to transition into a
 <img src="https://img.shields.io/badge/-CCD-000080?&style=for-the-badge&logoColor=white" />
 </div>
 
-#### Projects
+# Projects
 - Detection Lab
 - SOC Automation Project
