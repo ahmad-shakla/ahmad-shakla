@@ -20,7 +20,7 @@ My journey in cybersecurity lead me into being eager to transition into this fie
 | SQL Injection via sqlmap      | <a href="https://academy.hackthebox.com/achievement/badge/e31dce01-d728-11ee-891c-bea50ffe6cb4">HackTheBox Academy Badge</a>|
 | Vulnerability Assessment                   | <a href="https://academy.hackthebox.com/achievement/badge/d825149d-a480-11ee-bfb6-bea50ffe6cb4">HackTheBox Academy Badge</a>|
 | Attacking Common Services | <a href="https://academy.hackthebox.com/achievement/badge/af27f89d-d1b8-11ee-891c-bea50ffe6cb4">HackTheBox Academy Badge</a>|
-| Pivoting, Tunneling, and Port Forwarding | <a href="https://academy.hackthebox.com/achievement/badge/d747c2c0-e482-11ee-b18d-bea50ffe6cb4"><HackTheBox Academy Badge/a>|
+| Pivoting, Tunneling, and Port Forwarding | <a href="https://academy.hackthebox.com/achievement/badge/d747c2c0-e482-11ee-b18d-bea50ffe6cb4">HackTheBox Academy Badge</a>|
 | Password Attacks | <a href="https://academy.hackthebox.com/achievement/badge/5bc58b78-dc0c-11ee-b18d-bea50ffe6cb4">HackTheBox Academy Badge</a>|
 | SIEM and Security Analytics via ELK Stack | <a href="https://academy.hackthebox.com/achievement/badge/82594c6c-fde1-11ee-b18d-bea50ffe6cb4">HackTheBox Academy Badge</a>|
 | Cisco Layer 2 Secrutiy | <a href="https://github.com/ahmad-shakla/Network-Security">Layer 2 Network Securty Lab</a> 
