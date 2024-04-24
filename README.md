@@ -1,12 +1,11 @@
 # Hello, I'm Ahmad
-<a href=https://www.linkedin.com/in/ahmad-shakla-341027209"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/ahmad-shakla-341027209"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-[Brief Introduction - Remove this afterwards]
 
 Cybersecurity enthusiast seeking new opportunities to protect and secure digital landscapes
 
 ## Objective
-[Provide Objective - Remove this afterwards]]
+
 
 My journey in cybersecurity lead me into being eager to transition into this field, specifically aiming to become a penetration tester.
 
