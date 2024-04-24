@@ -10,16 +10,20 @@ Cybersecurity enthusiast seeking new opportunities to protect and secure digital
 My journey in cybersecurity lead me into being eager to transition into this field, specifically aiming to become a penetration tester.
 
 ## Skills
-[Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
+
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
 | Network Enumeration with nmap          | <a href="https://academy.hackthebox.com/achievement/badge/97f891b9-a0e9-11ee-bfb6-bea50ffe6cb4">HackTheBox Academy Badge</a>|
 | File Inclusion Attack | <a href="https://academy.hackthebox.com/achievement/badge/c8877fa3-e31d-11ee-b18d-bea50ffe6cb4">HackTheBox Acdemy Badge</a>|
 | File Transfaring         | <a href="https://academy.hackthebox.com/achievement/badge/19a73c1c-a5c8-11ee-bfb6-bea50ffe6cb4">HackTheBox Academy Badge</a>|
-| SQL Injection via sqlmap      | <a href="https://academy.hackthebox.com/achievement/badge/e31dce01-d728-11ee-891c-bea50ffe6cb4"></a>|
-| Case Management with TheHive                  | SOC Automation Lab|
-| Scripting and Automation for Threat Mitigation | SOC Automation Lab|
+| SQL Injection via sqlmap      | <a href="https://academy.hackthebox.com/achievement/badge/e31dce01-d728-11ee-891c-bea50ffe6cb4">HackTheBox Academy Badge</a>|
+| Vulnerability Assessment                   | <a href="https://academy.hackthebox.com/achievement/badge/d825149d-a480-11ee-bfb6-bea50ffe6cb4">HackTheBox Academy Badge</a>|
+| Attacking Common Services | <a href="https://academy.hackthebox.com/achievement/badge/af27f89d-d1b8-11ee-891c-bea50ffe6cb4">HackTheBox Academy Badge</a>|
+| Pivoting, Tunneling, and Port Forwarding | <a href="https://academy.hackthebox.com/achievement/badge/d747c2c0-e482-11ee-b18d-bea50ffe6cb4"><HackTheBox Academy Badge/a>|
+| Password Attacks | <a href="https://academy.hackthebox.com/achievement/badge/5bc58b78-dc0c-11ee-b18d-bea50ffe6cb4">HackTheBox Academy Badge</a>|
+| SIEM and Security Analytics via ELK Stack | <a href="https://academy.hackthebox.com/achievement/badge/82594c6c-fde1-11ee-b18d-bea50ffe6cb4">HackTheBox Academy Badge</a>|
+| Cisco Layer 2 Secrutiy | <a href="https://github.com/ahmad-shakla/Network-Security">Layer 2 Network Securty Lab</a> 
 
 ## Tools
 [Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
