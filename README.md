@@ -14,10 +14,10 @@ My journey in cybersecurity lead me into being eager to transition into this fie
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
-| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
-| Security Automation with Shuffle SOAR         | SOC Automation Lab|
-| Incident Response Planning and Execution      | SOC Automation Lab|
+| Network Enumeration with nmap          | <a href="https://academy.hackthebox.com/achievement/badge/97f891b9-a0e9-11ee-bfb6-bea50ffe6cb4">HackTheBox Academy Badge</a>|
+| File Inclusion Attack | <a href="https://academy.hackthebox.com/achievement/badge/c8877fa3-e31d-11ee-b18d-bea50ffe6cb4">HackTheBox Acdemy Badge</a>|
+| File Transfaring         | <a href="https://academy.hackthebox.com/achievement/badge/19a73c1c-a5c8-11ee-bfb6-bea50ffe6cb4">HackTheBox Academy Badge</a>|
+| SQL Injection via sqlmap      | <a href="https://academy.hackthebox.com/achievement/badge/e31dce01-d728-11ee-891c-bea50ffe6cb4"></a>|
 | Case Management with TheHive                  | SOC Automation Lab|
 | Scripting and Automation for Threat Mitigation | SOC Automation Lab|
 
