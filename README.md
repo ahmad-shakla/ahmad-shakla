@@ -75,11 +75,11 @@ My journey in cybersecurity has fueled my passion and drive to transition into a
 # Certifications
 
 <div>
-<img src="https://img.shields.io/badge/-TCM Security | Practical Ethical Hacking-FF0000?&style=for-the-badge&logo=&logoColor=white" />
+<img src="https://img.shields.io/badge/-TCM Security | Practical Ethical Hacking-C7A4FF?&style=for-the-badge&logo=&logoColor=white" />
 <img src="https://img.shields.io/badge/-Cyberary | Advanced Penetration Testing-000000?&style=for-the-badge&logo=&logoColor=white" />
 <img src="https://img.shields.io/badge/-Cyberary | Offensive Penetration Testing-000000?&style=for-the-badge&logo=&logoColor=white" />
-<img src="https://img.shields.io/badge/-Fortinet | NSE 1-006400?&style=for-the-badge&logoColor=white" />
-<img src="https://img.shields.io/badge/-Fortinet | NSE 2-006400?&style=for-the-badge&logoColor=white" />
-<img src="https://img.shields.io/badge/-Fortinet | NSE 3-006400?&style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/-Fortinet | NSE 1-FF0000?&style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/-Fortinet | NSE 2-FF0000?&style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/-Fortinet | NSE 3-FF0000?&style=for-the-badge&logoColor=white" />
 </div>
 
