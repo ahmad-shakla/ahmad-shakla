@@ -37,31 +37,31 @@ My journey in cybersecurity has fueled my passion and drive to transition into a
 ## Penetration Testing
 <div>
     <img src="https://img.shields.io/badge/-Metasploit-00A4EF?&style=for-the-badge&logo=&logoColor=white" />
- <img src="https://img.shields.io/badge/-smbclient-000000?&style=for-the-badge&logo=&logoColor=white" />
-<img src="https://img.shields.io/badge/-smbmap-000000?&style=for-the-badge&logo=&logoColor=white" />
-<img src="https://img.shields.io/badge/-enum4linux-000000?&style=for-the-badge&logo=&logoColor=white" />
-<img src="https://img.shields.io/badge/-rpcclient-000000?&style=for-the-badge&logo=&logoColor=white" />
-<img src="https://img.shields.io/badge/-impacket-000000?&style=for-the-badge&logo=&logoColor=white" />
-<img src="https://img.shields.io/badge/-crackmapexec-000000?&style=for-the-badge&logo=&logoColor=white" />
-<img src="https://img.shields.io/badge/-netexec-000000?&style=for-the-badge&logo=&logoColor=white" />
-<img src="https://img.shields.io/badge/-showmount-000000?&style=for-the-badge&logo=&logoColor=white" />
-<img src="https://img.shields.io/badge/-snmpwalk-000000?&style=for-the-badge&logo=&logoColor=white" />
-<img src="https://img.shields.io/badge/-winrm-000000?&style=for-the-badge&logo=&logoColor=white" />
-<img src="https://img.shields.io/badge/-gobuster-000000?&style=for-the-badge&logo=&logoColor=white" />
-<img src="https://img.shields.io/badge/-nessus-000000?&style=for-the-badge&logo=&logoColor=white" />
-<img src="https://img.shields.io/badge/-openVAS-000000?&style=for-the-badge&logo=&logoColor=white" />
-<img src="https://img.shields.io/badge/-johntheripper-000000?&style=for-the-badge&logo=&logoColor=white" />
-<img src="https://img.shields.io/badge/-crunch-000000?&style=for-the-badge&logo=&logoColor=white" />
-<img src="https://img.shields.io/badge/-hydra-000000?&style=for-the-badge&logo=&logoColor=white" />
-<img src="https://img.shields.io/badge/-sshuttle-000000?&style=for-the-badge&logo=&logoColor=white" />
-<img src="https://img.shields.io/badge/-rpivot-000000?&style=for-the-badge&logo=&logoColor=white" />
-<img src="https://img.shields.io/badge/-netsh-000000?&style=for-the-badge&logo=&logoColor=white" />
-<img src="https://img.shields.io/badge/-dnscat2-000000?&style=for-the-badge&logo=&logoColor=white" />
-<img src="https://img.shields.io/badge/-chisel-000000?&style=for-the-badge&logo=&logoColor=white" />
-<img src="https://img.shields.io/badge/-socksoverrdp-000000?&style=for-the-badge&logo=&logoColor=white" />
-<img src="https://img.shields.io/badge/-sqlmap-000000?&style=for-the-badge&logo=&logoColor=white" />
-<img src="https://img.shields.io/badge/-commix-000000?&style=for-the-badge&logo=&logoColor=white" />
-<img src="https://img.shields.io/badge/-burp-000000?&style=for-the-badge&logo=&logoColor=white" />
+<img src="https://img.shields.io/badge/-smbclient-FFA500?&style=for-the-badge&logo=&logoColor=white" />
+<img src="https://img.shields.io/badge/-smbmap-FFFFFF?&style=for-the-badge&logo=&logoColor=blue" />
+<img src="https://img.shields.io/badge/-enum4linux-FFA500?&style=for-the-badge&logo=&logoColor=white" />
+<img src="https://img.shields.io/badge/-rpcclient-FFA500?&style=for-the-badge&logo=&logoColor=white" />
+<img src="https://img.shields.io/badge/-impacket-FFFFFF?&style=for-the-badge&logo=&logoColor=blue" />
+<img src="https://img.shields.io/badge/-crackmapexec-FFAA00?&style=for-the-badge&logo=&logoColor=white" />
+<img src="https://img.shields.io/badge/-netexec-FFAA00?&style=for-the-badge&logo=&logoColor=white" />
+<img src="https://img.shields.io/badge/-showmount-FFFFFF?&style=for-the-badge&logo=&logoColor=blue" />
+<img src="https://img.shields.io/badge/-snmpwalk-FFFFFF?&style=for-the-badge&logo=&logoColor=blue" />
+<img src="https://img.shields.io/badge/-evil-winrm-FFA500?&style=for-the-badge&logo=&logoColor=white" />
+<img src="https://img.shields.io/badge/-gobuster-FFA500?&style=for-the-badge&logo=&logoColor=white" />
+<img src="https://img.shields.io/badge/-nessus-FFFFFF?&style=for-the-badge&logo=&logoColor=blue" />
+<img src="https://img.shields.io/badge/-openVAS-FFFFFF?&style=for-the-badge&logo=&logoColor=blue" />
+<img src="https://img.shields.io/badge/-johntheripper-FF0000?&style=for-the-badge&logo=&logoColor=white" />
+<img src="https://img.shields.io/badge/-crunch-FFFFFF?&style=for-the-badge&logo=&logoColor=blue" />
+<img src="https://img.shields.io/badge/-hydra-008000?&style=for-the-badge&logo=&logoColor=white" />
+<img src="https://img.shields.io/badge/-sshuttle-FFFFFF?&style=for-the-badge&logo=&logoColor=blue" />
+<img src="https://img.shields.io/badge/-rpivot-FFA500?&style=for-the-badge&logo=&logoColor=white" />
+<img src="https://img.shields.io/badge/-netsh-FFFFFF?&style=for-the-badge&logo=&logoColor=blue" />
+<img src="https://img.shields.io/badge/-dnscat2-FFFFFF?&style=for-the-badge&logo=&logoColor=blue" />
+<img src="https://img.shields.io/badge/-chisel-FFFFFF?&style=for-the-badge&logo=&logoColor=blue" />
+<img src="https://img.shields.io/badge/-socksoverrdp-FFFFFF?&style=for-the-badge&logo=&logoColor=blue" />
+<img src="https://img.shields.io/badge/-sqlmap-FFFFFF?&style=for-the-badge&logo=&logoColor=blue" />
+<img src="https://img.shields.io/badge/-commix-FFFFFF?&style=for-the-badge&logo=&logoColor=blue" />
+<img src="https://img.shields.io/badge/-burp-FFFFFF?&style=for-the-badge&logo=&logoColor=blue" />
 </div>
 
 ## SIEM
