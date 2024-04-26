@@ -66,8 +66,8 @@ My journey in cybersecurity has fueled my passion and drive to transition into a
 
 ## SIEM
 <div>
-    <img src="https://img.shields.io/badge/-Elastic-000000?&style=for-the-badge&logo=&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Elastic-0000FF?&style=for-the-badge&logo=&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Splunk-FFA500?&style=for-the-badge&logo=&logoColor=white" />
 
 </div>
 
