@@ -11,7 +11,7 @@ My journey in cybersecurity has fueled my passion and drive to transition into a
 ## Skills
 
 
-| Skill                                         | Associated Project         |
+| Skill                                         | Associated Projects, Badges, and Labs        |
 |-----------------------------------------------|----------------------------|
 | Network Enumeration with nmap          | <a href="https://academy.hackthebox.com/achievement/badge/97f891b9-a0e9-11ee-bfb6-bea50ffe6cb4">HackTheBox Academy Badge</a>|
 | File Inclusion Attack | <a href="https://academy.hackthebox.com/achievement/badge/c8877fa3-e31d-11ee-b18d-bea50ffe6cb4">HackTheBox Acdemy Badge</a>|
@@ -25,7 +25,7 @@ My journey in cybersecurity has fueled my passion and drive to transition into a
 | Cisco Layer 2 Secrutiy | <a href="https://github.com/ahmad-shakla/Network-Security">Layer 2 Network Securty Lab</a> 
 
 # Tools
-[Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
+
 
 ## Network
 <div>
@@ -73,7 +73,7 @@ My journey in cybersecurity has fueled my passion and drive to transition into a
 </div>
 
 # Certifications
-[Provide certifications that you have obtained. Use ChatGPT to help create the link - Remove this afterwards]]
+
 <div>
 <img src="https://img.shields.io/badge/-TCM Security | Practical Ethical Hacking-FF0000?&style=for-the-badge&logo=&logoColor=white" />
 <img src="https://img.shields.io/badge/-Cyberary | Advanced Penetration Testing-000000?&style=for-the-badge&logo=&logoColor=white" />
@@ -83,6 +83,3 @@ My journey in cybersecurity has fueled my passion and drive to transition into a
 <img src="https://img.shields.io/badge/-Fortinet | NSE 3-006400?&style=for-the-badge&logoColor=white" />
 </div>
 
-# Projects
-- Detection Lab
-- SOC Automation Project
