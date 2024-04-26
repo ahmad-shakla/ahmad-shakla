@@ -46,7 +46,7 @@ My journey in cybersecurity has fueled my passion and drive to transition into a
 <img src="https://img.shields.io/badge/-netexec-000000?&style=for-the-badge&logo=&logoColor=white" />
 <img src="https://img.shields.io/badge/-showmount-000000?&style=for-the-badge&logo=&logoColor=white" />
 <img src="https://img.shields.io/badge/-snmpwalk-000000?&style=for-the-badge&logo=&logoColor=white" />
-<img src="https://img.shields.io/badge/-evil-winrm-000000?&style=for-the-badge&logo=&logoColor=white" />
+<img src="https://img.shields.io/badge/-winrm-000000?&style=for-the-badge&logo=&logoColor=white" />
 <img src="https://img.shields.io/badge/-gobuster-000000?&style=for-the-badge&logo=&logoColor=white" />
 <img src="https://img.shields.io/badge/-nessus-000000?&style=for-the-badge&logo=&logoColor=white" />
 <img src="https://img.shields.io/badge/-openVAS-000000?&style=for-the-badge&logo=&logoColor=white" />
