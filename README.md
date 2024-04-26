@@ -31,6 +31,7 @@ My journey in cybersecurity has fueled my passion and drive to transition into a
 <div>
     <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
     <img src="https://img.shields.io/badge/-TCPDump-EF3B2D?style=for-the-badge&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Cisco Packet Tracer-001F66?style=for-the-badge&logoColor=white" />
     
 </div>
 
