@@ -72,7 +72,7 @@ My journey in cybersecurity has fueled my passion and drive to transition into a
 
 </div>
 
-# Certifications
+# Courses and Workshops
 
 <div>
 <img src="https://img.shields.io/badge/-TCM Security | Practical Ethical Hacking-533D7E?&style=for-the-badge&logo=&logoColor=white" />
