@@ -72,6 +72,14 @@ My journey in cybersecurity has fueled my passion and drive to transition into a
 
 </div>
 
+## Threat intelligence
+<div>
+    <img src="https://img.shields.io/badge/-abuse.ch-000000?&style=for-the-badge&logo=&logoColor=white" />
+    <img src="https://img.shields.io/badge/-CiscoTalosInelligence-000000?&style=for-the-badge&logo=&logoColor=white" />
+    <img src="https://img.shields.io/badge/-urlscan.io-000000?&style=for-the-badge&logo=&logoColor=white" />
+    <img src="https://img.shields.io/badge/-any.run-000000?&style=for-the-badge&logo=&logoColor=white" />
+</div>
+
 # Courses and Workshops
 
 <div>
