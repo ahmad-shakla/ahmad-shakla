@@ -78,6 +78,10 @@ My journey in cybersecurity has fueled my passion and drive to transition into a
     <img src="https://img.shields.io/badge/-Cisco Talos Inelligence-FFFFFF?&style=for-the-badge&logo=&logoColor=white" />
     <img src="https://img.shields.io/badge/-urlscan.io-FFFFFF?&style=for-the-badge&logo=&logoColor=white" />
     <img src="https://img.shields.io/badge/-any.run-FFFFFF?&style=for-the-badge&logo=&logoColor=white" />
+    <img src="https://img.shields.io/badge/-yara-FFFFFF?&style=for-the-badge&logo=&logoColor=white" />
+    <img src="https://img.shields.io/badge/-sigma-FFFFFF?&style=for-the-badge&logo=&logoColor=white" />
+
+
 </div>
 
 # Courses and Workshops
