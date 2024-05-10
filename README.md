@@ -93,5 +93,7 @@ My journey in cybersecurity has fueled my passion and drive to transition into a
 <img src="https://img.shields.io/badge/-Fortinet | NSE 1-FF0000?&style=for-the-badge&logoColor=white" />
 <img src="https://img.shields.io/badge/-Fortinet | NSE 2-FF0000?&style=for-the-badge&logoColor=white" />
 <img src="https://img.shields.io/badge/-Fortinet | NSE 3-FF0000?&style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/-TryHackMe | Offensive Pentesting -2F3542?&style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/-HackTheBox | CPTS -66D9EF?&style=for-the-badge&logoColor=white" />
 </div>
 
