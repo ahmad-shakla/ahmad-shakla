@@ -83,11 +83,6 @@ My journey in cybersecurity has fueled my passion and drive to transition into a
 
 
 
-# Courses and Workshops2
-
-
-
-
 
 
 # Courses and Workshops
@@ -103,3 +98,7 @@ My journey in cybersecurity has fueled my passion and drive to transition into a
 <img src="https://img.shields.io/badge/-HackTheBox | CPTS (Currenty preparing)-41fa06?&style=for-the-badge&logoColor=white" />
 </div>
 
+
+
+
+# Writeups & Blogs
