@@ -83,14 +83,10 @@ My journey in cybersecurity has fueled my passion and drive to transition into a
 
 
 
+# Courses and Workshops2
 
 
 
-</div>
-# Writeups
-<div>
-    #
-</div>
 
 
 
