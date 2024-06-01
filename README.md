@@ -82,6 +82,14 @@ My journey in cybersecurity has fueled my passion and drive to transition into a
     <img src="https://img.shields.io/badge/-sigma-FFFFFF?&style=for-the-badge&logo=&logoColor=white" />
 
 
+#Writeups & Blogs
+<div src="https://medium.com/@0x47M4D/builder-hackthebox-writeup-27ebd9f37562">
+##Builder Writeup
+</div>
+
+
+
+
 </div>
 
 # Courses and Workshops
