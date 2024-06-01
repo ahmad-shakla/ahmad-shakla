@@ -105,5 +105,5 @@ My journey in cybersecurity has fueled my passion and drive to transition into a
 
 
 <div>
-    <a src="https://medium.com/@0x47M4D/builder-hackthebox-writeup-27ebd9f37562">Builder | HackTheBox</a>
+    <a href="https://medium.com/@0x47M4D/builder-hackthebox-writeup-27ebd9f37562">Builder | HackTheBox </a>
 </div>
