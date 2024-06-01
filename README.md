@@ -74,12 +74,12 @@ My journey in cybersecurity has fueled my passion and drive to transition into a
 
 ## Threat intelligence
 <div>
-    <img src="https://img.shields.io/badge/-abuse.ch-FFFFFF?&style=for-the-badge&logo=&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Cisco Talos Inelligence-FFFFFF?&style=for-the-badge&logo=&logoColor=white" />
+    <img src="https://img.shields.io/badge/-abuse.ch-BDB9B9?&style=for-the-badge&logo=&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Cisco Talos Inelligence-1C44CA?&style=for-the-badge&logo=&logoColor=white" />
     <img src="https://img.shields.io/badge/-urlscan.io-FFFFFF?&style=for-the-badge&logo=&logoColor=white" />
-    <img src="https://img.shields.io/badge/-any.run-FFFFFF?&style=for-the-badge&logo=&logoColor=white" />
-    <img src="https://img.shields.io/badge/-yara-FFFFFF?&style=for-the-badge&logo=&logoColor=white" />
-    <img src="https://img.shields.io/badge/-sigma-FFFFFF?&style=for-the-badge&logo=&logoColor=white" />
+    <img src="https://img.shields.io/badge/-any.run-1A72C9?&style=for-the-badge&logo=&logoColor=white" />
+    <img src="https://img.shields.io/badge/-yara-C93C1A?&style=for-the-badge&logo=&logoColor=white" />
+    <img src="https://img.shields.io/badge/-sigma-1A64C9?&style=for-the-badge&logo=&logoColor=white" />
 
 
 
