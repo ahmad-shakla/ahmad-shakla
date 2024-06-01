@@ -83,8 +83,11 @@ My journey in cybersecurity has fueled my passion and drive to transition into a
 
 
 #Writeups & Blogs
+
 <div src="https://medium.com/@0x47M4D/builder-hackthebox-writeup-27ebd9f37562">
-##Builder Writeup
+    
+ ##Builder Writeup
+
 </div>
 
 
