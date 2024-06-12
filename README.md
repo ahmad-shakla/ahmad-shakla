@@ -107,3 +107,12 @@ My journey in cybersecurity has fueled my passion and drive to transition into a
 <div>
     <a href="https://medium.com/@0x47M4D/builder-hackthebox-writeup-27ebd9f37562"><h2> Builder | HackTheBox </h2></a>
 </div>
+
+
+
+# Achievement
+
+<div>
+    <a href="https://avatars.githubusercontent.com/u/135150385?s=200&v=4"><h2>Third Place | RamadanCTF </h2></a>
+    <script src="https://tryhackme.com/badge/50709"><h2>Top 50 in Jordan and Top 1% Globally </h2></script>
+</div>
