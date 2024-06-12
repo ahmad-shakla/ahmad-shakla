@@ -113,6 +113,6 @@ My journey in cybersecurity has fueled my passion and drive to transition into a
 # Achievement
 
 <div>
-    <a href="https://avatars.githubusercontent.com/u/135150385?s=200&v=4"><h2>Third Place | RamadanCTF </h2></a>
-    <script src="https://tryhackme.com/badge/50709"><h2>Top 50 in Jordan and Top 1% Globally </h2></script>
+    <img src="https://avatars.githubusercontent.com/u/135150385?s=200&v=4"/><h2>Third Place | RamadanCTF </h2>
+    <script src="https://tryhackme.com/badge/50709"></script>
 </div>
